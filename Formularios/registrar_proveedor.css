@@ -1,0 +1,87 @@
+body
+{
+}
+
+header {
+    background-color: #EC2C2C;
+    height:130px; 
+    width:100%;
+}
+
+header img{
+    height:120px;
+    width:15%;
+    border-radius:50%;
+    
+}
+
+.foto{
+    margin-left: 1500px;
+    height:60px;
+    width:60px;
+    margin-top: -8px;
+}
+
+header h4{
+    text-align: right;
+    margin-top: -25px;
+}
+
+article h1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#badbunny{
+    margin-left: 10%;
+    width: 300px;
+    margin-top: 40px;
+}
+
+#supapa{
+    margin-left: 43%;
+    width: 300px;
+    margin-top: -75px;
+}
+
+#jaja{
+    margin-left: 75%;
+    width: 300px;
+    margin-top: -76px;
+}
+
+#jaja2{
+    margin-left: 10%;
+    width: 500px;
+    margin-top: 8%;
+}
+
+#sapo{
+    margin-left: 50%;
+    width: 550px;
+    margin-top: -85px;
+}
+
+#ayobvio{
+    margin-left: 10%;
+    width: 300px;
+    margin-top: 10%;
+}
+
+#si{
+    margin-left: 40%;
+    width: 300px;
+    margin-top: -70px;
+}
+
+#mmm{
+    margin-left: 70%;
+    width: 300px;
+    margin-top: -70px;
+}
+
+#kk{
+    margin-top: 50px;
+    margin-left: 850px;
+    background-color: #EC2C2C;
+}

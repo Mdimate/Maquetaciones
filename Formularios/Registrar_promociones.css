@@ -1,0 +1,69 @@
+﻿
+
+header {
+    background-color: #EC2C2C;
+    height:130px; 
+    width:100%;
+}
+
+header img{
+    height:120px;
+    width:15%;
+    border-radius:50%;
+    
+}
+
+.foto{
+    margin-left: 1758px;
+    height:60px;
+    width:60px;
+    margin-top: -160px;
+}
+header h4{
+    text-align: right;
+    margin-top: -47px;
+}
+
+article h1{ 
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
+#sumadre{
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+#sumadre2{
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -10%;
+}
+
+#sapo{
+    width: 300px;
+    margin-left: 70%;
+    margin-top: -5%;
+}
+
+#yepessapo{
+    width: 300px;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+#yepessapo2{
+    width: 300px;
+    margin-top: -4%;
+    margin-left: 60%;
+}
+
+#kk{
+    margin-top: 50px;
+    margin-left: 850px;
+    background-color: #EC2C2C;
+}
+

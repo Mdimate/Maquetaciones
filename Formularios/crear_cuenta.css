@@ -1,0 +1,75 @@
+header {
+    background-color: #EC2C2C;
+    height:130px; 
+    width:100%;
+}
+
+header img{
+    height:120px;
+    width:15%;
+    border-radius:50%;
+    
+}
+
+
+article h1{
+    text-align: center;
+    margin-top: 3%;
+}
+#nombre{
+width: 350px;
+margin-top: 2%;
+margin-left: 40%;
+}
+
+#apellido{
+    width: 350px;
+margin-top: 2%;
+margin-left: 40%;
+}
+
+#td{
+    width: 350px;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+#doc{
+    width: 350px;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+#tel{
+    width: 350px;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+#dir{
+    width: 350px;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+#correo{
+    width: 350px;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+#psw{
+    width: 350px;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+#tarjeta{
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+#kk{
+    margin-top: 50px;
+    margin-left: 500px;
+    background-color: #EC2C2C;
+}
