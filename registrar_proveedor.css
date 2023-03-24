@@ -1,6 +1,4 @@
-body
-{
-}
+
 
 header {
     background-color: #EC2C2C;
@@ -21,7 +19,10 @@ header img{
     width:60px;
     margin-top: -8px;
 }
-
+#tarjeta{
+    margin-left: 15%;
+    margin-top: 3%;
+}
 header h4{
     text-align: right;
     margin-top: -25px;
@@ -82,6 +83,7 @@ article h1{
 
 #kk{
     margin-top: 50px;
-    margin-left: 850px;
+    border-color: #EC2C2C;
     background-color: #EC2C2C;
+    width: 10%;
 }

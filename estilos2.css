@@ -24,7 +24,10 @@ header h4{
     text-align: right;
     margin-top: -25px;
 }
-
+#tarjeta{
+    margin-left: 22%;
+    margin-top: 3%;
+}
 article h1{
     text-align: center;
     margin-top: 5%;
@@ -64,11 +67,12 @@ article h1{
 }
 
 #kk{
-    margin-left: 47%;
+    margin-left: 41%;
     margin-top: 50px;
     background-color: #EC2C2C;
     border-radius: 50px;
     border-color: #EC2C2C;
+    width: 17%;
     
 
 }

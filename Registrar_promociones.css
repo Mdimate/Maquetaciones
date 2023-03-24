@@ -19,6 +19,10 @@ header img{
     width:60px;
     margin-top: -160px;
 }
+#tarjeta{
+    margin-left: 15%;
+    margin-top: 3%;
+}
 header h4{
     text-align: right;
     margin-top: -47px;
@@ -31,39 +35,40 @@ article h1{
 
 
 
-#sumadre{
+#des{
     width: 20%;
     margin-left: 10%;
     margin-top: 7%;
 }
 
-#sumadre2{
+#fecha1{
     width: 300px;
     margin-left: 40%;
-    margin-top: -10%;
+    margin-top: -15%;
 }
 
-#sapo{
+#fecha2{
     width: 300px;
     margin-left: 70%;
-    margin-top: -5%;
+    margin-top: -8%;
 }
 
-#yepessapo{
+#nombre{
     width: 300px;
     margin-top: 15%;
     margin-left: 20%;
 }
 
-#yepessapo2{
+#tipo{
     width: 300px;
-    margin-top: -4%;
+    margin-top: -6%;
     margin-left: 60%;
 }
 
 #kk{
     margin-top: 50px;
-    margin-left: 850px;
+    width: 15%;
     background-color: #EC2C2C;
+    border-color: #EC2C2C;
 }
 
